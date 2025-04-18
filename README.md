@@ -41,6 +41,8 @@ A previsão do valor de imóveis é um desafio recorrente em diversas empresas: 
 ## 📊 Resultados Obtidos
 Modelos lineares apresentaram bom desempenho com features selecionadas manualmente. O `RandomForestRegressor` teve melhor ajuste, indicando que relações não-lineares são importantes neste tipo de problema.
 
+📊 Veja a apresentação dos resultados no [nbviewer]([https://nbviewer.org/links...](https://nbviewer.org/github/P-Lage/house-prices-predictor/blob/main/notebooks/04_presentation.ipynb))
+
 ---
 
 ## 🧩 Aprendizados e Reaplicabilidade
