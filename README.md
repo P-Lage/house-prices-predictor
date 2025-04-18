@@ -1,5 +1,6 @@
 > 🚀 Projeto de Portfólio • Cientista de Dados em Transição de Carreira (Físico por Formação)
-
+📘 [Clique aqui para ver a apresentação do projeto em HTML](https://seu-usuario.github.io/house-prices-predictor/)
+> 
 # 🏠 House Prices: Predição de Preços de Imóveis
 
 Este projeto utiliza dados da competição **House Prices - Advanced Regression Techniques** do Kaggle para prever o valor de venda de casas residenciais em Ames, Iowa. A análise foca na construção de um pipeline simples e robusto de regressão, com foco em resolver problemas reais e gerar insights que podem ser reaplicados em diferentes contextos do mercado imobiliário.
