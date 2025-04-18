@@ -75,6 +75,6 @@ Disponível em: [Kaggle - House Prices](https://www.kaggle.com/competitions/hous
 ---
 
 ## 👨‍🔬 Autor
-**Seu Nome Aqui**  
+**Pedro Lage**  
 Físico por formação | Estudante de Ciência de Dados  
-[LinkedIn](#) | [Email](#)
+[[LinkedIn](https://www.linkedin.com/in/pedro-lage-9579742a1/?originalSubdomain=br)](#) | [lagecomg@gmail.com](#)
